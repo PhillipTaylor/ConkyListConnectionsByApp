@@ -1,0 +1,11 @@
+
+This is a very simple perl script that writes out the number of open connections
+your machine currently has, grouped by application name. It's designed to used
+in conky. See screenshot.png for an example. This script generates the "Connections"
+part of the screenshot.
+
+TO USE
+------
+
+Download the script, make it executable and put {exec /path/to/script } in your
+conkyrc.
